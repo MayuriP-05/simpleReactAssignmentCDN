@@ -1,0 +1,15 @@
+/* *{
+    margin: 0;padding: 0;
+    box-sizing: border-box;
+} */
+#root  h1{
+    margin: 20px 0;
+    font-size: 35px;
+}
+.container{
+    font-size: 25px;
+}
+.container p{
+    margin: 20px 5px;
+    
+}
